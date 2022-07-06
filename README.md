@@ -4,7 +4,7 @@
 
 ### passwords table
 
-parameters: id, user_id, name, value, date
+parameters: id, user_id, title, value, date
 
 ### user table
 
