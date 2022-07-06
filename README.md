@@ -6,6 +6,6 @@
 
 parameters: id, user_id, title, value, date
 
-### user table
+### users table
 
 parameters: id, user_id, name, password
